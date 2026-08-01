@@ -6,6 +6,7 @@ My DSA journey, solving leetcode questions.
 ## Array
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 ## Stack
 |  |
@@ -14,6 +15,7 @@ My DSA journey, solving leetcode questions.
 ## Sorting
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
