@@ -11,6 +11,7 @@ My DSA journey, solving leetcode questions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 ## Sorting
 |  |
@@ -21,4 +22,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
