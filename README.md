@@ -29,11 +29,13 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vidhibinani/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vidhibinani/leetcode-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vidhibinani/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -43,4 +45,12 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
