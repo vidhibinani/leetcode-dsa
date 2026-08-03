@@ -7,6 +7,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
@@ -21,6 +22,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 ## Monotonic Stack
@@ -50,10 +52,23 @@ My DSA journey, solving leetcode questions.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
