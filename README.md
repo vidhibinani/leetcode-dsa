@@ -6,6 +6,7 @@ My DSA journey, solving leetcode questions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@ My DSA journey, solving leetcode questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -99,6 +101,7 @@ My DSA journey, solving leetcode questions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Timsort
