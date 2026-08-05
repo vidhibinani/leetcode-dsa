@@ -12,6 +12,7 @@ My DSA journey, solving leetcode questions.
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/vidhibinani/leetcode-dsa/tree/master/1652-defuse-the-bomb) |
@@ -28,6 +29,7 @@ My DSA journey, solving leetcode questions.
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Monotonic Stack
@@ -71,6 +73,7 @@ My DSA journey, solving leetcode questions.
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
@@ -96,5 +99,10 @@ My DSA journey, solving leetcode questions.
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
