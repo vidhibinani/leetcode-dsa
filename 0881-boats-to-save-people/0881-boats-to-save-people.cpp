@@ -9,14 +9,15 @@ public:
         while(left<=right){
             int result=p[left]+p[right];
             if(result>limit){
-                boats++;
+                
                 right--;
             }
             else{
-                boats++;
+                
                 left++;
                 right--;
             }
+            boats++;
         }
         return boats;
 
