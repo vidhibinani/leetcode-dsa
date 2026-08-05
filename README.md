@@ -108,4 +108,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
