@@ -111,5 +111,6 @@ My DSA journey, solving leetcode questions.
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/vidhibinani/leetcode-dsa/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
