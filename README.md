@@ -125,6 +125,7 @@ My DSA journey, solving leetcode questions.
 | [0620-not-boring-movies](https://github.com/vidhibinani/leetcode-dsa/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/vidhibinani/leetcode-dsa/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/vidhibinani/leetcode-dsa/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
 | ------- |
