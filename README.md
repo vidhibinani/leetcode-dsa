@@ -117,6 +117,7 @@ My DSA journey, solving leetcode questions.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/vidhibinani/leetcode-dsa/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vidhibinani/leetcode-dsa/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/vidhibinani/leetcode-dsa/tree/master/1683-invalid-tweets) |
