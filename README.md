@@ -19,6 +19,7 @@ My DSA journey, solving leetcode questions.
 | [1652-defuse-the-bomb](https://github.com/vidhibinani/leetcode-dsa/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My DSA journey, solving leetcode questions.
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +120,12 @@ My DSA journey, solving leetcode questions.
 | [0595-big-countries](https://github.com/vidhibinani/leetcode-dsa/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/vidhibinani/leetcode-dsa/tree/master/1683-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
