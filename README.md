@@ -49,6 +49,7 @@ My DSA journey, solving leetcode questions.
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vidhibinani/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vidhibinani/leetcode-dsa/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vidhibinani/leetcode-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
@@ -83,6 +84,7 @@ My DSA journey, solving leetcode questions.
 | [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vidhibinani/leetcode-dsa/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
