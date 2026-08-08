@@ -51,6 +51,7 @@ My DSA journey, solving leetcode questions.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vidhibinani/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vidhibinani/leetcode-dsa/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vidhibinani/leetcode-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3713-longest-balanced-substring-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My DSA journey, solving leetcode questions.
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+| [3713-longest-balanced-substring-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
+| [3713-longest-balanced-substring-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/3713-longest-balanced-substring-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -137,4 +140,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
