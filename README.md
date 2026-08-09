@@ -135,6 +135,7 @@ My DSA journey, solving leetcode questions.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Combinatorics
 |  |
