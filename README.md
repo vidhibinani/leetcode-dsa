@@ -10,6 +10,7 @@ My DSA journey, solving leetcode questions.
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vidhibinani/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 | [0962-maximum-width-ramp](https://github.com/vidhibinani/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 ## Sorting
@@ -44,6 +46,7 @@ My DSA journey, solving leetcode questions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 | [0962-maximum-width-ramp](https://github.com/vidhibinani/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 ## String
@@ -85,6 +88,7 @@ My DSA journey, solving leetcode questions.
 | [0011-container-with-most-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -112,6 +116,7 @@ My DSA journey, solving leetcode questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
