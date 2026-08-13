@@ -14,6 +14,7 @@ My DSA journey, solving leetcode questions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
@@ -66,6 +67,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -75,6 +77,7 @@ My DSA journey, solving leetcode questions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -127,6 +130,7 @@ My DSA journey, solving leetcode questions.
 | [0035-search-insert-position](https://github.com/vidhibinani/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
 |  |
