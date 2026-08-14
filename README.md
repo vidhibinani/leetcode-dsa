@@ -11,6 +11,7 @@ My DSA journey, solving leetcode questions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vidhibinani/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/vidhibinani/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
@@ -129,6 +130,7 @@ My DSA journey, solving leetcode questions.
 | ------- |
 | [0035-search-insert-position](https://github.com/vidhibinani/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/vidhibinani/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -174,4 +176,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vidhibinani/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
