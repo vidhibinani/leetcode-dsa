@@ -128,6 +128,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vidhibinani/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -159,6 +160,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Combinatorics
 |  |
@@ -168,4 +170,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/3713-longest-balanced-substring-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
