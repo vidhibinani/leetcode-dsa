@@ -32,6 +32,7 @@ My DSA journey, solving leetcode questions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/vidhibinani/leetcode-dsa/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 | [0962-maximum-width-ramp](https://github.com/vidhibinani/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 ## Sorting
@@ -180,4 +181,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vidhibinani/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vidhibinani/leetcode-dsa/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
