@@ -41,6 +41,7 @@ My DSA journey, solving leetcode questions.
 | ------- |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
@@ -59,6 +60,7 @@ My DSA journey, solving leetcode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
@@ -88,6 +90,7 @@ My DSA journey, solving leetcode questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
