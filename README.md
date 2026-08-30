@@ -20,6 +20,7 @@ My DSA journey, solving leetcode questions.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/vidhibinani/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/vidhibinani/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -77,6 +78,7 @@ My DSA journey, solving leetcode questions.
 | [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vidhibinani/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vidhibinani/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/vidhibinani/leetcode-dsa/tree/master/1652-defuse-the-bomb) |
@@ -95,6 +97,7 @@ My DSA journey, solving leetcode questions.
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/vidhibinani/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/3713-longest-balanced-substring-i) |
