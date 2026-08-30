@@ -63,6 +63,7 @@ My DSA journey, solving leetcode questions.
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vidhibinani/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vidhibinani/leetcode-dsa/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -73,6 +74,7 @@ My DSA journey, solving leetcode questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -91,6 +93,7 @@ My DSA journey, solving leetcode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
