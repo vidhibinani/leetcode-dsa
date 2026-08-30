@@ -12,6 +12,7 @@ My DSA journey, solving leetcode questions.
 | [0035-search-insert-position](https://github.com/vidhibinani/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/vidhibinani/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -196,4 +198,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vidhibinani/leetcode-dsa/tree/master/0155-min-stack) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
