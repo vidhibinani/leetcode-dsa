@@ -96,6 +96,7 @@ My DSA journey, solving leetcode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
@@ -112,6 +113,7 @@ My DSA journey, solving leetcode questions.
 | [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
@@ -177,6 +179,7 @@ My DSA journey, solving leetcode questions.
 | ------- |
 | [0009-palindrome-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Combinatorics
 |  |
@@ -202,4 +205,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
