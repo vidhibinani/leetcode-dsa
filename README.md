@@ -64,6 +64,7 @@ My DSA journey, solving leetcode questions.
 | [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/vidhibinani/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -101,6 +102,7 @@ My DSA journey, solving leetcode questions.
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/vidhibinani/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vidhibinani/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
