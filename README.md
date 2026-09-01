@@ -63,6 +63,7 @@ My DSA journey, solving leetcode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/vidhibinani/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vidhibinani/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -100,6 +101,7 @@ My DSA journey, solving leetcode questions.
 | [0128-longest-consecutive-sequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/vidhibinani/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vidhibinani/leetcode-dsa/tree/master/0290-word-pattern) |
