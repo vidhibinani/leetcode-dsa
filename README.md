@@ -14,6 +14,7 @@ My DSA journey, solving leetcode questions.
 | [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/vidhibinani/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +46,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -124,6 +126,7 @@ My DSA journey, solving leetcode questions.
 | [0027-remove-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
