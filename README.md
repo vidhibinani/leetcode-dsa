@@ -174,6 +174,7 @@ My DSA journey, solving leetcode questions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vidhibinani/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
@@ -216,6 +217,7 @@ My DSA journey, solving leetcode questions.
 | [0009-palindrome-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Combinatorics
 |  |
