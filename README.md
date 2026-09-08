@@ -71,6 +71,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vidhibinani/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vidhibinani/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vidhibinani/leetcode-dsa/tree/master/0058-length-of-last-word) |
@@ -111,6 +112,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhibinani/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vidhibinani/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
@@ -222,6 +224,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vidhibinani/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
