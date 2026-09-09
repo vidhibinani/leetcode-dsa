@@ -230,6 +230,7 @@ My DSA journey, solving leetcode questions.
 | [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 | [3870-count-commas-in-range](https://github.com/vidhibinani/leetcode-dsa/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/3871-count-commas-in-range-ii) |
 ## Combinatorics
 |  |
 | ------- |
