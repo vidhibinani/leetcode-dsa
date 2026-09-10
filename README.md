@@ -25,6 +25,7 @@ My DSA journey, solving leetcode questions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -141,6 +142,7 @@ My DSA journey, solving leetcode questions.
 | [0088-merge-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
@@ -235,6 +237,7 @@ My DSA journey, solving leetcode questions.
 | [0009-palindrome-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vidhibinani/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
