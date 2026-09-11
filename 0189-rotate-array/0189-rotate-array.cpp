@@ -4,12 +4,13 @@ public:
         int n = nums.size();
         k = k % n;
 
-        vector<int> temp(n);
+        // 1. Reverse last k elements
+        reverse(nums.begin() + (n - k), nums.end());
 
-        for(int i = 0; i < n; i++) {
-            temp[(i + k) % n] = nums[i];
-        }
+        // 2. Reverse the whole array
+        reverse(nums.begin(), nums.end());
 
-        nums = temp;
+        // 3. Reverse first n-k elements
+        reverse(nums.begin() + k, nums.end());
     }
 };
