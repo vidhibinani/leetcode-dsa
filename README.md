@@ -191,6 +191,7 @@ My DSA journey, solving leetcode questions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/vidhibinani/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vidhibinani/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
@@ -241,6 +242,7 @@ My DSA journey, solving leetcode questions.
 | [0189-rotate-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/vidhibinani/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 | [3870-count-commas-in-range](https://github.com/vidhibinani/leetcode-dsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/3871-count-commas-in-range-ii) |
