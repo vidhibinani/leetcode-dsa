@@ -28,6 +28,7 @@ My DSA journey, solving leetcode questions.
 | [0189-rotate-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vidhibinani/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -58,6 +59,7 @@ My DSA journey, solving leetcode questions.
 | [0088-merge-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vidhibinani/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/vidhibinani/leetcode-dsa/tree/master/0881-boats-to-save-people) |
@@ -123,6 +125,7 @@ My DSA journey, solving leetcode questions.
 | [0205-isomorphic-strings](https://github.com/vidhibinani/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/vidhibinani/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/vidhibinani/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vidhibinani/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -190,6 +193,7 @@ My DSA journey, solving leetcode questions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhibinani/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/vidhibinani/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vidhibinani/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -241,6 +245,7 @@ My DSA journey, solving leetcode questions.
 | [0069-sqrtx](https://github.com/vidhibinani/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/vidhibinani/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
@@ -286,4 +291,8 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vidhibinani/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
