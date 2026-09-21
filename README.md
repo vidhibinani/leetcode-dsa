@@ -45,6 +45,7 @@ My DSA journey, solving leetcode questions.
 | [1732-find-the-highest-altitude](https://github.com/vidhibinani/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+| [2965-find-missing-and-repeated-values](https://github.com/vidhibinani/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@ My DSA journey, solving leetcode questions.
 | [0904-fruit-into-baskets](https://github.com/vidhibinani/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+| [2965-find-missing-and-repeated-values](https://github.com/vidhibinani/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3713-longest-balanced-substring-i](https://github.com/vidhibinani/leetcode-dsa/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
@@ -254,6 +256,7 @@ My DSA journey, solving leetcode questions.
 | [0367-valid-perfect-square](https://github.com/vidhibinani/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/vidhibinani/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vidhibinani/leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+| [2965-find-missing-and-repeated-values](https://github.com/vidhibinani/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/vidhibinani/leetcode-dsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vidhibinani/leetcode-dsa/tree/master/3871-count-commas-in-range-ii) |
 ## Combinatorics
@@ -272,6 +275,7 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vidhibinani/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/vidhibinani/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
