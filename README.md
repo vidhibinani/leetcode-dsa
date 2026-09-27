@@ -323,9 +323,11 @@ My DSA journey, solving leetcode questions.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vidhibinani/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vidhibinani/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
