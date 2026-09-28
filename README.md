@@ -152,6 +152,7 @@ My DSA journey, solving leetcode questions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/vidhibinani/leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vidhibinani/leetcode-dsa/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
@@ -329,6 +330,7 @@ My DSA journey, solving leetcode questions.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vidhibinani/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vidhibinani/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vidhibinani/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
