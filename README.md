@@ -56,6 +56,7 @@ My DSA journey, solving leetcode questions.
 | [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vidhibinani/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/vidhibinani/leetcode-dsa/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0853-car-fleet](https://github.com/vidhibinani/leetcode-dsa/tree/master/0853-car-fleet) |
 | [0962-maximum-width-ramp](https://github.com/vidhibinani/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 ## Sorting
@@ -162,6 +163,7 @@ My DSA journey, solving leetcode questions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhibinani/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
@@ -331,6 +333,7 @@ My DSA journey, solving leetcode questions.
 | [0141-linked-list-cycle](https://github.com/vidhibinani/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vidhibinani/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -338,4 +341,5 @@ My DSA journey, solving leetcode questions.
 | [0021-merge-two-sorted-lists](https://github.com/vidhibinani/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/vidhibinani/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
