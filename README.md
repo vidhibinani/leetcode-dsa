@@ -43,6 +43,7 @@ My DSA journey, solving leetcode questions.
 | [0918-maximum-sum-circular-subarray](https://github.com/vidhibinani/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0962-maximum-width-ramp](https://github.com/vidhibinani/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vidhibinani/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/vidhibinani/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vidhibinani/leetcode-dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/vidhibinani/leetcode-dsa/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vidhibinani/leetcode-dsa/tree/master/1679-max-number-of-k-sum-pairs) |
