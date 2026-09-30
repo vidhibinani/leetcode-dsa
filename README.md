@@ -96,6 +96,7 @@ My DSA journey, solving leetcode questions.
 | [0205-isomorphic-strings](https://github.com/vidhibinani/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vidhibinani/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vidhibinani/leetcode-dsa/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vidhibinani/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
@@ -170,6 +171,7 @@ My DSA journey, solving leetcode questions.
 | [0189-rotate-array](https://github.com/vidhibinani/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vidhibinani/leetcode-dsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vidhibinani/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vidhibinani/leetcode-dsa/tree/master/0567-permutation-in-string) |
