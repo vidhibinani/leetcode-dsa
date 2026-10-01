@@ -364,4 +364,8 @@ My DSA journey, solving leetcode questions.
 | [0203-remove-linked-list-elements](https://github.com/vidhibinani/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vidhibinani/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vidhibinani/leetcode-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
